@@ -1,0 +1,4 @@
+name: Village
+version: '0'
+main: io.github.seamo.village.Village
+api-version: '1.21'
